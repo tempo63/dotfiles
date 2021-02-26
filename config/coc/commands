@@ -1,0 +1,6 @@
+python.execInTerminal
+prettier.formatFile
+python.enableSourceMapSupport
+workspace.showOutput
+snippets.editSnippets
+html.autoClosingTags:true
