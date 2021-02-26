@@ -6,7 +6,7 @@
 #Variables
 dir=~/dotfiles
 olddir=~/dotfiles_old
-file="bash_profile config tmux.conf bashrc inputrc vimrc"
+files="bash_profile config tmux.conf bashrc inputrc vimrc"
 
 #create dotifle_old in homedir
 echo "Creating $olddir for backup of any existing dotfiles in ~"
