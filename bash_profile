@@ -23,7 +23,7 @@ alias serve="browser-sync start --server --files ."
 alias power="pmset -g batt"
 
 alias whatup="cd && cd documents/whatup && ls"
-
+alias python="echo 'PYTHON 3' && python3"
 export PATH="/usr/local/sbin:$PATH"
 
 [ -f /usr/local/etc/bash_completion  ] && . /usr/local/etc/bash_completion
