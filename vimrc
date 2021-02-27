@@ -13,8 +13,6 @@ set undodir=~/.vim/undodir
 set undofile
 set incsearch
 
-let g:loaded_python_provider
-
 set laststatus=2
 set statusline+=%F
 
