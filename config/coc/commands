@@ -1,5 +1,6 @@
-python.execInTerminal
+prettier.open-output
 prettier.formatFile
+python.execInTerminal
 python.enableSourceMapSupport
 workspace.showOutput
 snippets.editSnippets
